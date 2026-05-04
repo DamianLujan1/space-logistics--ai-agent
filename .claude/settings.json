@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python main.py*)",
+      "Bash(python -c*)",
+      "Bash(pip install*)",
+      "Bash(pip install -r requirements.txt)",
+      "Read(*.png)"
+    ]
+  }
+}
